@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ma-martel
-- 👀 I’m interested in elections, political parties and media analysis
-- 🌱 I’m currently learning how to analyze textual data
-- 💞️ I’m looking to collaborate on any project related to my interests
+- 👀 I’m interested in political communication and strategy, political behavior, and media effects. 
+- 🌱 Currently working on issue competition.
 - 📫 How to reach me: marc-antoine.martel@umontreal.ca
 
 <!---
